@@ -1,15 +1,16 @@
-------------------------PROJET DE FIN D'ANNEE REALIS…E------------------------
+------------------------PROJET DE FIN D'ANNEE REALIS√âE------------------------
 
 Avant de commencer, le programme installe sur votre machine des librairies python (easygui, pydivert, pygame et scapy)
 Et si python n'est pas sur votre machine, l'installation s'en occupe aussi. 
 
-Nous devions crÈer un pare-feu. L'objectif du pare-feu Ètait de refuser des paquets selon des rËgles 
-spÈcifique, bien Èvidemment saisi par l'utilisateur.
+Nous devions cr√©er un pare-feu. L'objectif du pare-feu √©tait de refuser des paquets selon des r√®gles 
+sp√©cifique, bien √©videmment saisi par l'utilisateur.
 
 Ce pare-feu est utilisable en mode console et avec une interface graphique. 
 
 1) setup.bat
 2) setup-dependecies.bat
-3) -> crÈation d'un raccourci dans le bureau, nommÈ "FirewallARC"
+3) -> cr√©ation d'un raccourci dans le bureau, nomm√© "FirewallARC"
 4) lancer FirewallARC EN TANT QU'ADMINISTRATEUR /!\
 
+/!\ ----------------- NE PAS LANCER setup.bat SI VOUS AVEZ DEJA UN INTERPRETEUR PYTHON 3. JUSTE LANCEZ setup-dependecies.bat qui installera le parefeu. ----------------- /!\
